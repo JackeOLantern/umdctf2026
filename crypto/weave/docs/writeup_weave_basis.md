@@ -1,7 +1,7 @@
-# UMDCTF crypto/weave — Trapdoor Gabidulin unweaving (basis merged v7)
+# UMDCTF crypto/weave — Trapdoor Gabidulin unweaving
 
 **Basis document:** uploaded `writeup_weave.docx`  
-**Main improvements in v7:** acronym/abbreviation primer before the technical sections, more precise newcomer-friendly explanations, state-transition **box drawings** directly in the Markdown body instead of embedded Mermaid code, and the corresponding PNG diagram figures kept alongside the text.  
+**Main improvements:** acronym/abbreviation primer before the technical sections, more precise newcomer-friendly explanations, state-transition **box drawings** directly in the Markdown body instead of embedded Mermaid code, and the corresponding PNG diagram figures kept alongside the text.  
 **Author:** AnyMoR Entry JOL  
 **Writeup/Figures license:** CC BY 4.0  
 **Solver license:** MIT
@@ -18,7 +18,7 @@ every piece of the cipher lies open on the table. compose them correctly and the
 
 ## Adapted objective
 
-The uploaded DOCX already contained the main algebraic solve path. This v7 rewrite keeps that basis but makes the document more accessible and more operational:
+The uploaded PDF (from DOCX) already contained the main algebraic solve path. This v7 rewrite keeps that basis but makes the document more accessible and more operational:
 
 1. it explains the **acronyms and abbreviations first**;
 2. it adds a more explicit glossary before the specialized weaving vocabulary;
